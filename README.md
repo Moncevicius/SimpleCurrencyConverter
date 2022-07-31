@@ -2,6 +2,8 @@
 
 https://hyperskill.org/projects/231
 
+https://hyperskill.org/profile/271391908
+
 ABOUT
 
 Have you ever wondered how many Japanese yens you can have for 100 USD? 
