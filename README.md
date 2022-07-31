@@ -8,6 +8,10 @@ Have you ever wondered how many Japanese yens you can have for 100 USD?
 In this project, you will write a program that converts a provided currency to another.
 In addition, you will improve your programming skills with JavaScript and get more comfortable using it!
 
+LEARNING OUTCOMES
+
+Get to know the basic syntax of JavaScript and write a simple program using variables, conditions, loops, and functions.
+
 Project has 4 stages:
 
   1. "Welcome to Simple Currency Converter" - Get started with printing a list of currencies and a welcoming message for users.
