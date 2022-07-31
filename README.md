@@ -1,5 +1,7 @@
 # Simple Currency Converter
 
+https://hyperskill.org/projects/231
+
 ABOUT
 
 Have you ever wondered how many Japanese yens you can have for 100 USD? 
