@@ -22,4 +22,4 @@ stage, 'task.html' provides information what is required/needed to be done to co
 'Task' folder, 'main.js' contains the final stage implementation including previous stages.
 
 'Topics' folder contains exercises that are required to be solved prior to solving stages. By going inside the folder
-and different topics, information about the exercise specific to the topic can be found inside 'task.html' and the code inside 'main.js'.
+and selecting a topic, information about the exercise specific to the topic can be found inside 'task.html' and the code inside 'main.js'.
